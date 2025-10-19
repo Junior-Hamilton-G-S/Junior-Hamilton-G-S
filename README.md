@@ -23,7 +23,7 @@ Quando não estou mergulhado em códigos ou teoremas físico-matemáticos, você
 
 - **[Repositório Alura](https://github.com/Hamilguijr?tab=repositories/):** Projetos e exercícios dos cursos que fiz na Alura.
 - **[Repositório Unicamp](https://github.com/Junior-Hamilton-G-S?tab=repositories/):** Trabalhos e projetos desenvolvidos na universidade.
-- **[Repositório Pessoal](https://github.com/Hamilguijr/Repositorio-Pessoal/):** Projetos e programas feitos no tempo livre
+- **[Repositório Pessoal](https://github.com/Hamilguijr/Repositorio-Pessoal/):** Projetos e programas feitos no tempo livre.
 <br>
 
 ---
