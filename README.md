@@ -11,7 +11,7 @@
 Olá! 👋 Sou o Hamilton Junior, um entusiasta de tecnologia e estudante do **Curso 51** na Unicamp.
 <br>
 
-Minha jornada no mundo começou com a curiosidade de transformar ideias em realidade. Atualmente, estou focado em aprimorar minhas habilidades e conhecimentos por meio da Universidade, mas também já fiz diversos cursos na [**Alura**](https://www.alura.com.br/), construindo projetos e explorando o ecossistema de JavaScript, HTML e CSS.
+Minha jornada no mundo começou com a curiosidade de transformar ideias em realidade. Atualmente, estou focado em aprimorar minhas habilidades e conhecimentos por meio da Universidade, mas também já fiz diversos cursos na [**Alura**](https://www.alura.com.br/), construindo projetos e explorando o ecossistema de Python, JavaScript, HTML e CSS.
 <br>
 
 Quando não estou mergulhado em códigos ou teoremas físico-matemáticos, você pode me encontrar praticando alguma atividade ou andando pelo Campus. Talvez agora eu esteja fazendo algo do tipo, ou então focado em alguma de minhas tarefas. Por que não aproveita que já está aqui para dar uma olhada nesse espaço? Ele é meu hub para organizar e compartilhar o que venho aprendendo.
